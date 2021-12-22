@@ -2,8 +2,8 @@ version: 0.2
 
 env:
   variables:
-    AWS_ACCOUNT_ID: "554507418634"
-    IMAGE_REPO_NAME: "zheeta-web-repo"
+    AWS_ACCOUNT_ID: "MudathirLawal"
+    IMAGE_REPO_NAME: "aws-codebuild-demo"
     APP_NAME: "zheeta_image"
     IMAGE_TAG: "v12.21"
     AWS_DEFAULT_REGION: "eu-west-3"
